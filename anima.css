@@ -1,0 +1,71 @@
+.meu_texto
+ { 
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    margin-top: 365px;
+    animation: forwards bounceOutRight 5s;
+    position: absolute;
+    animation-delay: 2s;
+ }
+ .banana
+ {
+    width: 100%;
+    display: flex;
+    margin-top: 365px;
+    margin-left: -500px;
+    animation: bounceOutRight 4s;
+    position: absolute;
+    animation-delay: 5s;
+ }
+ .papel
+ {
+    width: 100%;
+    display: flex;
+    margin-top: 365px;
+    margin-left: 3200px;
+    animation: bounceOutLeft 6s;
+    position: absolute;
+    animation-delay: 5s;
+ } 
+ .municao
+ {
+    width: 100%;
+    display: flex;
+    margin-top: 365px;
+    margin-left: -500px;
+    animation: bounceOutRight 4s;
+    position: absolute;
+    animation-delay: 8s;
+ }
+ .among
+ {
+    width: 100%;
+    display: flex;
+    margin-top: 365px;
+    margin-left: 3200px;
+    animation: bounceOutLeft 4s;
+    position: absolute;
+    animation-delay: 9s;
+ }
+ .personagem
+ {
+    width: 100%;
+    display: flex;
+    margin-top: 220px;
+    margin-left: -900px;
+    animation: bounceOutRight 4s;
+    position: absolute;
+    animation-delay: 11s;
+ }
+
+
+body
+{
+    background-color: rgb(106, 187, 106);
+    
+}
